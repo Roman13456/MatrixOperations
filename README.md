@@ -2,7 +2,7 @@
 
 **Clone the repository to your local machine**
 ```bash
-git clone https://github.com/your-username/matrix-operations-java.git
+git clone https://github.com/Roman13456/MatrixOperations.git
 ```
 
 **Navigate to the project directory**
