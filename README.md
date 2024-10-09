@@ -16,7 +16,7 @@ javac -d bin src/MatrixOperations.java
 ```
 
 **Run the program**
-```
-java -cp bin src/MatrixOperations.java
+```bash
+java -cp bin MatrixOperations
 ```
 
